@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/hackathon/static/css/main.794362f0.css",
+    "main.js": "/hackathon/static/js/main.46553677.js",
+    "static/js/787.5dc954ee.chunk.js": "/hackathon/static/js/787.5dc954ee.chunk.js",
+    "static/media/women.jpg": "/hackathon/static/media/women.1d8e2782084a3384edaf.jpg",
+    "static/media/Group.svg": "/hackathon/static/media/Group.a57e653fd782b4bf58a58879859538ac.svg",
+    "static/media/company.png": "/hackathon/static/media/company.f91ccb0167bee3b58f9e.png",
+    "static/media/topo-lp-tofu-desktop.png": "/hackathon/static/media/topo-lp-tofu-desktop.74d50729fda303e06eed.png",
+    "static/media/vinhos_real.png": "/hackathon/static/media/vinhos_real.ab37df1ca829eef81964.png",
+    "static/media/picking_wine.png": "/hackathon/static/media/picking_wine.f3d153de8dc5dc0a68bc.png",
+    "static/media/somelier.png": "/hackathon/static/media/somelier.18d49c4263d35b51d10d.png",
+    "static/media/wine_store.png": "/hackathon/static/media/wine_store.46c8fd08ab4594cad427.png",
+    "static/media/picking_grape.png": "/hackathon/static/media/picking_grape.1be5dd1a72589a2d0aca.png",
+    "static/media/phone.png": "/hackathon/static/media/phone.2012ea743e369f0313cd.png",
+    "static/media/logo.png": "/hackathon/static/media/logo.1faa93c187b13b5142a4.png",
+    "static/media/ilustration_wine.png": "/hackathon/static/media/ilustration_wine.7e6786cc6e2551485296.png",
+    "static/media/qrCode.png": "/hackathon/static/media/qrCode.f0f18fdfa2c4dcb0af6f.png",
+    "static/media/vinhos.svg": "/hackathon/static/media/vinhos.bddf13db3ac5fd8a369a3e9965791eb3.svg",
+    "static/media/Revista.svg": "/hackathon/static/media/Revista.6532ac29498c1275b0c55561e7283405.svg",
+    "static/media/benefits-icon.svg": "/hackathon/static/media/benefits-icon.a00000eedab422ed8e6702c2348d7b88.svg",
+    "static/media/logado.svg": "/hackathon/static/media/logado.572586f86af663c18933b37b56f8dbb3.svg",
+    "static/media/Busca.svg": "/hackathon/static/media/Busca.d210c34c30f057ce22503337839da622.svg",
+    "index.html": "/hackathon/index.html",
+    "main.794362f0.css.map": "/hackathon/static/css/main.794362f0.css.map",
+    "main.46553677.js.map": "/hackathon/static/js/main.46553677.js.map",
+    "787.5dc954ee.chunk.js.map": "/hackathon/static/js/787.5dc954ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.794362f0.css",
+    "static/js/main.46553677.js"
+  ]
+}
