@@ -22,7 +22,7 @@
     "eject": "react-scripts eject",
     "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js,.jsx,**/*.js",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build -b gh-pages -r git@github.com:DeboraSerra/hackathon.git"
   },
   "eslintConfig": {
     "extends": [
