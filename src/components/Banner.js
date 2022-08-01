@@ -8,7 +8,7 @@ const Banner = () => {
   const [state, setState] = useState({
     index: 0,
     components: [<BannerOne key="1" />, <BannerTwo key="2" />, <BannerThree key="3" />],
-    time: 1000,
+    time: 10,
   });
   const { index, components, time } = state;
 
